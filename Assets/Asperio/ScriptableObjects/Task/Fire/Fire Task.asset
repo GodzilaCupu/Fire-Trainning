@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f57bb10a020f44d429399f64f71afb51, type: 3}
+  m_Name: Fire Task
+  m_EditorClassIdentifier: 
+  Id: Fire
+  title: Fire
+  description: 
+  ListProgress: []
+  TargetCount: 0
+  IsCompleted: 0
+  IsHideInUserTask: 0
+  ListSubTask:
+  - Id: Step1
+    description: Menuju lokasi kerja
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step2
+    description: Pemilihan APD
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step3
+    description: Pemilihan pengamanan jika terjadi kebakaran
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step4
+    description: Menuju mixing room
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step5
+    description: Pemilihan timbangan
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step6
+    description: Pemasangan grounding
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step7
+    description: Pemilihan alat tuang
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step8
+    description: Proses tuang material
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step9
+    description: Proses tuang dari kaleng ke tangki mixing
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
