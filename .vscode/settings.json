@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Fire Trainning.sln"
+    "dotnet.defaultSolution": "vr-sugity.sln"
 }
