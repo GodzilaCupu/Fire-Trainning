@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f57bb10a020f44d429399f64f71afb51, type: 3}
+  m_Name: Fire Module
+  m_EditorClassIdentifier: 
+  Id: Fire Module
+  title: Fire Module
+  description: 
+  ListProgress: []
+  TargetCount: 0
+  IsCompleted: 0
+  IsHideInUserTask: 0
+  ListSubTask:
+  - Id: Step1
+    description: Menuju tempat kerja
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step2
+    description: Pengawas Mengingatkan Menggunakan APD Standart
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step3
+    description: Memilih APD Baju Dan sepatu Safety
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step4
+    description: Memilih APD Sarung tangan dan Masker Khusus
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step5
+    description: Memilih Sistem Penangaman CO2 System
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step6
+    description: Masuk Ke grounding atau tidak
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step7
+    description: Pilih TImbangan
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step8
+    description: Pasang Gorunding ke alat tuang
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step9
+    description: 'Memilih Teko Plastik '
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step10
+    description: Posisi Tuang  Yang di beri jarak
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step11
+    description: Posisi Tuang ke tangki mixing
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
+  - Id: Step12
+    description: Finish
+    ListTargetProgress: []
+    TargetCount: 0
+    IsInProgress: 0
+    IsCompleted: 0
+    IsHideInUserTask: 0
