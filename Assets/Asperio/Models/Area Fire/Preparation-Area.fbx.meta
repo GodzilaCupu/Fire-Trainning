@@ -1,0 +1,1327 @@
+fileFormatVersion: 2
+guid: a25d039008bebae41833b568f2d71f5c
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange
+    second: {fileID: 2100000, guid: cc357f13a920b2b41afb78fa76f6acd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange100_
+    second: {fileID: 2100000, guid: bd89780e33801154e81de2d874c7a0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange101_
+    second: {fileID: 2100000, guid: f8ca2aa05602e2042a5b98825ee63c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange102_
+    second: {fileID: 2100000, guid: 60a966e0a4fabd64e9129a6527d6d10d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange103_
+    second: {fileID: 2100000, guid: a7ce266caa549d7488c36b8c5b8c1df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange104_
+    second: {fileID: 2100000, guid: ae32ff8b381dff147895c512a50eb697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange105_
+    second: {fileID: 2100000, guid: 8f964375a0166a24eb611ae607304cb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange106_
+    second: {fileID: 2100000, guid: 768406065ad507548a6e9d42b1bda13a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange107_
+    second: {fileID: 2100000, guid: da49430233354b94a95d6d0391548bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange108_
+    second: {fileID: 2100000, guid: 7a6804c23012f2546a3261d11b0da722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange109_
+    second: {fileID: 2100000, guid: c740e86650fecd04a9bedec28b8309df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange10_
+    second: {fileID: 2100000, guid: 61be56d5c73703945b178e5f7462d49d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange110_
+    second: {fileID: 2100000, guid: 54f8572452dead246908ba32c7bbac15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange111_
+    second: {fileID: 2100000, guid: 9873eb33819e6694986806b5da1c3505, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange112_
+    second: {fileID: 2100000, guid: cf415f30b15a6c14684463f4e44a4e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange113_
+    second: {fileID: 2100000, guid: e7bd9f9b21b55434d847a71e810c5492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange114_
+    second: {fileID: 2100000, guid: 0b05ec92fee49bb4a85300025eec5ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange115_
+    second: {fileID: 2100000, guid: ea19fcc993cedeb4992e468c2540ee95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange116_
+    second: {fileID: 2100000, guid: 8f2b8358a0c210041a3cb9a0b0420da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange117_
+    second: {fileID: 2100000, guid: 66897ecb7e162fd4ba2214d5e681ad71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange118_
+    second: {fileID: 2100000, guid: 74e7be45a0adff241af1fbff21e06c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange119_
+    second: {fileID: 2100000, guid: f59c012eadc86ed45bdd7c2b207f8c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange11_
+    second: {fileID: 2100000, guid: 7d5263055230d584085effead79882b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange120_
+    second: {fileID: 2100000, guid: 7b460591863ad184991924331200a160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange121_
+    second: {fileID: 2100000, guid: 3921371ed2f81a44ca769d3563757d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange122_
+    second: {fileID: 2100000, guid: c80e935ebfdcb4e46ab72a94c78c4db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange123_
+    second: {fileID: 2100000, guid: d5d4b9d154f47a04f9103d7ce772d07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange124_
+    second: {fileID: 2100000, guid: d247cb0b530ef2d40a466b93e4c4d417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange125_
+    second: {fileID: 2100000, guid: b80cf6f73614de244bc2e116b32d5fe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange126_
+    second: {fileID: 2100000, guid: 2fe2cad0ed3164c40b2dc8380bd51ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange127_
+    second: {fileID: 2100000, guid: b694806a99ec1f04cbabe1b78dee9cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange128_
+    second: {fileID: 2100000, guid: 04d04aec25fc2e945a59ef1429494125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange129_
+    second: {fileID: 2100000, guid: 31b2c1a6d15979b4a8ebe2e3a4ff09b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange12_
+    second: {fileID: 2100000, guid: 9a0a4ed828bcdd040a2799f9c35a4dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange130_
+    second: {fileID: 2100000, guid: 74804db21a5c0c64dbbbf3d6ccfc55a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange131_
+    second: {fileID: 2100000, guid: da76d62e12cc47d4faccf2b59e902be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange132_
+    second: {fileID: 2100000, guid: 751b9f479fe4ae34fbc669193a817124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange133_
+    second: {fileID: 2100000, guid: 3ff5cf3b080ab1a4899b82e6a8cf30c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange134_
+    second: {fileID: 2100000, guid: 43d1becb292cf634b9e5a304b97ce14a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange135_
+    second: {fileID: 2100000, guid: 5c460a56e286aed4e9bf2eee485d8a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange136_
+    second: {fileID: 2100000, guid: 7e86a95b16dbefd4994fbd87e010b256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange137_
+    second: {fileID: 2100000, guid: 468ff3045473105499858561885e9caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange138_
+    second: {fileID: 2100000, guid: 49cf1cb6842d635488d60ecb905ea990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange139_
+    second: {fileID: 2100000, guid: 657d8dffeefa02341bd887adb5dec74f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange13_
+    second: {fileID: 2100000, guid: 05162c76fcc131047a58c05a31f377af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange140_
+    second: {fileID: 2100000, guid: cc2ea77c001fa9747bca1061db5d2561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange141_
+    second: {fileID: 2100000, guid: c7caea7b41286bd4399142669ca21806, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange142_
+    second: {fileID: 2100000, guid: 425e0e4e90628574c890edb97efdee4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange143_
+    second: {fileID: 2100000, guid: b8ffcc22316205445908753738d07ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange144_
+    second: {fileID: 2100000, guid: 53d2e1c7e03a97a48a023651c72de92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange145_
+    second: {fileID: 2100000, guid: daa1ac65f0e5d5e4ab24845e3f0273d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange146_
+    second: {fileID: 2100000, guid: 7671d75c85c40cb4d91545cc25271535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange147_
+    second: {fileID: 2100000, guid: 711176a731f089644afa0278760f9ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange148_
+    second: {fileID: 2100000, guid: a9def1d93e8747f498bc6f8db83dee70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange149_
+    second: {fileID: 2100000, guid: a7cc7d3ff7f1f5841a33febc48e6fdc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange14_
+    second: {fileID: 2100000, guid: d01ebd4bd8144fd488a7925d3015e9f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange150_
+    second: {fileID: 2100000, guid: 72979fe0ac0df804ba255bc7ca5de081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange151_
+    second: {fileID: 2100000, guid: 0211cfb84b3645742b85105ed5e28750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange152_
+    second: {fileID: 2100000, guid: 8ecaeb6c8ce7b004886afe7af1de8797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange153_
+    second: {fileID: 2100000, guid: fe2c9c38b043758459befe9f3140aa5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange154_
+    second: {fileID: 2100000, guid: a1ffcac660384384fbf584f0f5f8cc1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange155_
+    second: {fileID: 2100000, guid: bbe85d297d05ae54a94cecbb68bf36de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange156_
+    second: {fileID: 2100000, guid: b0b277d70ac502548895caf50e914e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange157_
+    second: {fileID: 2100000, guid: 5637d0d84b4a2ca40837973e12038648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange158_
+    second: {fileID: 2100000, guid: 8c28ab3786ca93d4c993526e1999df7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange159_
+    second: {fileID: 2100000, guid: e96739cf5f63baa4ebdcdc0ffffdbfab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange15_
+    second: {fileID: 2100000, guid: 404434b606cf63545963f81164f29212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange160_
+    second: {fileID: 2100000, guid: e67de97ca45bba24cbfde5c4ea841f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange161_
+    second: {fileID: 2100000, guid: 0477af128dc746f49857c17916cb8e9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange162_
+    second: {fileID: 2100000, guid: db599594f4060ee428ec19ebcaeeddd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange163_
+    second: {fileID: 2100000, guid: 91c6a71279b9cb644891f143623be310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange164_
+    second: {fileID: 2100000, guid: 394267682f7298d448d8b3ae7c5f2968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange165_
+    second: {fileID: 2100000, guid: da295620b30aeb6418ea30a7bab7906f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange166_
+    second: {fileID: 2100000, guid: 1c17827e2a0a2b84fafcb27c401aff80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange167_
+    second: {fileID: 2100000, guid: 82ff23b477af8004a90e72bfb1576e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange168_
+    second: {fileID: 2100000, guid: 5ba17584667bc1e4180b853bccbc5038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange169_
+    second: {fileID: 2100000, guid: 95c0de43e3628344d87166124b7bfdda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange16_
+    second: {fileID: 2100000, guid: 51c8922a9bf9c0f4d837d0d31f7aef46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange170_
+    second: {fileID: 2100000, guid: efbe887c84c6b28499b28f22d3b2482e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange171_
+    second: {fileID: 2100000, guid: 8371232dd861a7049870e4a1c0afc374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange172_
+    second: {fileID: 2100000, guid: 2a8f62ad5c04b7747854d47cef892ebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange173_
+    second: {fileID: 2100000, guid: ee73c4c5646645b44beb885c328d7eff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange174_
+    second: {fileID: 2100000, guid: 8fe2d753b04b75c4d998c60e1fae11f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange175_
+    second: {fileID: 2100000, guid: 50b57cf0ba5d0874fa341104231cd4b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange176_
+    second: {fileID: 2100000, guid: 290400b8bea6f2846aaabc67599ec453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange177_
+    second: {fileID: 2100000, guid: c323f586af06daf458f07b6b0c49526e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange178_
+    second: {fileID: 2100000, guid: 554d43ce4a644d644ac27e050333fcc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange179_
+    second: {fileID: 2100000, guid: 7ad1f1e8916aaa747a98a04d362b25aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange17_
+    second: {fileID: 2100000, guid: 6e423ab3be453f34aa42ae87b59e2311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange180_
+    second: {fileID: 2100000, guid: 36e5d03bdac80db41be0818f1763d1f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange181_
+    second: {fileID: 2100000, guid: 0788c8c30e5f2974cac26a563fafb2a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange182_
+    second: {fileID: 2100000, guid: 2d37bca899ca7f341bb8eac489ecc387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange183_
+    second: {fileID: 2100000, guid: b39b55ee700eb694fafb33b16d4a3483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange184_
+    second: {fileID: 2100000, guid: 5d589afda23fba24caca4c2894419d18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange185_
+    second: {fileID: 2100000, guid: de8c6b7a0244a2c4bb03a33d32ecfc48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange186_
+    second: {fileID: 2100000, guid: 5121d8fa506ee434aa0583e3cdff8f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange187_
+    second: {fileID: 2100000, guid: 52982590206fe9847a38f2bf19624e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange188_
+    second: {fileID: 2100000, guid: 0318c64f9b27026448e9baa852c8f2b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange189_
+    second: {fileID: 2100000, guid: 20394bc086f7cf244b98a22d0705e109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange18_
+    second: {fileID: 2100000, guid: 4052b375b6884084fa87c3d19efe81e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange19_
+    second: {fileID: 2100000, guid: f2d24a8ba1cd20847a2704574632adf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange1_
+    second: {fileID: 2100000, guid: 47919585a02a8b54eb7d6256209697bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange20_
+    second: {fileID: 2100000, guid: cb0d04ebdf08a11449931a7fa1587fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange21_
+    second: {fileID: 2100000, guid: 066d35cde49add341b423a2d50d2312d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange22_
+    second: {fileID: 2100000, guid: 8b4ed4f086a7b914f9718315dba7bf31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange23_
+    second: {fileID: 2100000, guid: 4cab4a8e51002f14b8e8a9a106474afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange24_
+    second: {fileID: 2100000, guid: 15cea6ee404d01a4d855cc932ba090b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange25_
+    second: {fileID: 2100000, guid: 00ef37bde4b9d8841a300f8818ca78e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange26_
+    second: {fileID: 2100000, guid: a1d52a2e70c9fec4a8a49d0bc7e0db1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange27_
+    second: {fileID: 2100000, guid: 558c0a6b315899a44a653d066c977dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange28_
+    second: {fileID: 2100000, guid: e7e5d60ddb04e3945a09fdd3215f083c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange29_
+    second: {fileID: 2100000, guid: 28881517006788c4483926c3c2e1b10d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange2_
+    second: {fileID: 2100000, guid: ca53002ff9c135c4aa728c7179ae438d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange30_
+    second: {fileID: 2100000, guid: fa33d50a71e40784da02e5ff427b2e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange31_
+    second: {fileID: 2100000, guid: d132ddd2aca06d5408621d29b86f939d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange32_
+    second: {fileID: 2100000, guid: d50e7d305c6a15f4f8d0999c2eb79568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange33_
+    second: {fileID: 2100000, guid: f9970d3df101a9c489ce3cbd46026076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange34_
+    second: {fileID: 2100000, guid: 41544401342adfb49848afb2fb74bacb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange35_
+    second: {fileID: 2100000, guid: 94890023aa9f0ae43b4f1bdca5b27437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange36_
+    second: {fileID: 2100000, guid: 80215a6eff5dd534ca272741cc622f93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange37_
+    second: {fileID: 2100000, guid: f5e47cfdc0aeeff4289476a9b4cf92d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange38_
+    second: {fileID: 2100000, guid: b9373b094b01a7f49b1e6c9d30800be6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange39_
+    second: {fileID: 2100000, guid: 367c8af946f4dce4fb2ad429d9da0ef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange3_
+    second: {fileID: 2100000, guid: 09b2dcc8551435049af9c1e4f6f34601, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange40_
+    second: {fileID: 2100000, guid: 932905ccae163b949b5910bdac252921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange41_
+    second: {fileID: 2100000, guid: d2eabcc0a86932640a665f3208eb5493, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange42_
+    second: {fileID: 2100000, guid: f3565c0ec97d597478d836be7c35aac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange43_
+    second: {fileID: 2100000, guid: 070d58937b346c34f87448ec3a2e6c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange44_
+    second: {fileID: 2100000, guid: 9bb542c76820900409e5f8c5646e6332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange45_
+    second: {fileID: 2100000, guid: cde8b69a78501894a8deebcc09b280a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange46_
+    second: {fileID: 2100000, guid: 1c30a4f02c0dce94f8bb4b1371209024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange47_
+    second: {fileID: 2100000, guid: 939e88fe91681204287afd0fc7b34c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange48_
+    second: {fileID: 2100000, guid: baedab7bb67a2ed41b198935928732a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange49_
+    second: {fileID: 2100000, guid: e53abf668bab4d446a05e6710ffeb81a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange4_
+    second: {fileID: 2100000, guid: 494b9cda0fee8c143b23cc46a193229d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange50_
+    second: {fileID: 2100000, guid: 14a66f36e2ba0ba459941827c87506f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange51_
+    second: {fileID: 2100000, guid: b249acae13bc3344384b1ed06eebd450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange52_
+    second: {fileID: 2100000, guid: f71d1d5fb24c8ad44bd16858ed2d833d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange53_
+    second: {fileID: 2100000, guid: 019296edcf0f7aa4d9381e263fb4aaf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange54_
+    second: {fileID: 2100000, guid: 564895850bf54c84b937b790d67cffa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange55_
+    second: {fileID: 2100000, guid: 1407323c5d11e124aae6a5fce248c16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange56_
+    second: {fileID: 2100000, guid: 48b11b279730bd44a90396396a1864f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange57_
+    second: {fileID: 2100000, guid: a2632220671371a4d8da9307a42c7988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange58_
+    second: {fileID: 2100000, guid: 2c957668c0dc1894c8cb5ff0129b22a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange59_
+    second: {fileID: 2100000, guid: f34e4647abd96fe459945e7f0e0a67d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange5_
+    second: {fileID: 2100000, guid: 5c218d7217d730c40a062a570312a456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange60_
+    second: {fileID: 2100000, guid: ceecc3ce00ea0764bae189fecd7a409f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange61_
+    second: {fileID: 2100000, guid: 89171af752d06fb4ca8f6a6eda08c7ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange62_
+    second: {fileID: 2100000, guid: 2a15336871df1c544a5ecfab5ae50061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange63_
+    second: {fileID: 2100000, guid: d2dfe8e34e106a94a9d795d337b90ebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange64_
+    second: {fileID: 2100000, guid: 2cd71bdecec373f488767dbe1ea51f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange65_
+    second: {fileID: 2100000, guid: af359b7ae04897342bc14f84d8d484f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange66_
+    second: {fileID: 2100000, guid: a600f50fe869af543aa865aa6de61a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange67_
+    second: {fileID: 2100000, guid: fd6ce60c23f961941b0ac9506b6759ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange68_
+    second: {fileID: 2100000, guid: 7bdbc56d361103346b08a553e9e5280c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange69_
+    second: {fileID: 2100000, guid: c417db983303f114db40ea7734ddc858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange6_
+    second: {fileID: 2100000, guid: 2ebd89cf826c5b84e8a78b9c90f566a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange70_
+    second: {fileID: 2100000, guid: 42a4f2e17f7c9124fa23b2572f04cfeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange71_
+    second: {fileID: 2100000, guid: 200edbc3a58a87c45b1bf6cd3a3520bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange72_
+    second: {fileID: 2100000, guid: 8a59c6af6862c8040bb1e50cf615e3b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange73_
+    second: {fileID: 2100000, guid: 91bd8e54597c41b4d8b4fb5ce11f868c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange74_
+    second: {fileID: 2100000, guid: dd1c502059792d04da3494f6a0919442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange75_
+    second: {fileID: 2100000, guid: 7960e71be7efca543a01ed807521e0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange76_
+    second: {fileID: 2100000, guid: f319940c17a9ecf4d9369be77d721f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange77_
+    second: {fileID: 2100000, guid: e12a181825e6b524db12f61650d14ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange78_
+    second: {fileID: 2100000, guid: 0ff661ea058a4ae4484bcba55de37dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange79_
+    second: {fileID: 2100000, guid: acb5a8826d56e6e47a610c3846a3d6d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange7_
+    second: {fileID: 2100000, guid: c3eaab30a290314478fb773107291f09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange80_
+    second: {fileID: 2100000, guid: 955ead7b87c542b47a0f30fe4ae97d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange81_
+    second: {fileID: 2100000, guid: de9ca474c7623324db7d717aaeef1f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange82_
+    second: {fileID: 2100000, guid: 85050fadb5ba6da429493193ada073ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange83_
+    second: {fileID: 2100000, guid: 053552dfd501f2245a4376f645e29eed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange84_
+    second: {fileID: 2100000, guid: 0a5b0d7bd13775348937bd93bea9ef22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange85_
+    second: {fileID: 2100000, guid: 4178d590baa45854689a407899705146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange86_
+    second: {fileID: 2100000, guid: 800532acaa58db74b8e60ed188bca20b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange87_
+    second: {fileID: 2100000, guid: e20cc766d0a961541bc495261a7eba9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange88_
+    second: {fileID: 2100000, guid: d3048babdb94201469b2715562c17e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange89_
+    second: {fileID: 2100000, guid: 6b0ab1223454b7e49b8abe4fd7d2de6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange8_
+    second: {fileID: 2100000, guid: bffa77cd6c47f024ab3c78b1c1784ec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange90_
+    second: {fileID: 2100000, guid: 168bc5b5eedd4204db7a51f098707374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange91_
+    second: {fileID: 2100000, guid: 496d6986eadf0d5499908c2925c80fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange92_
+    second: {fileID: 2100000, guid: fac3ed28696fbe4428b43165d1a824da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange93_
+    second: {fileID: 2100000, guid: 04a49e3c6a65550428f49c93917cda7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange94_
+    second: {fileID: 2100000, guid: 93e7227723d159649ab2ba1d7c4c3668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange95_
+    second: {fileID: 2100000, guid: d534ac5d4a75c754aae148ffc36f6798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange96_
+    second: {fileID: 2100000, guid: bdd1ba75dd4a19543847da574ad9dc9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange97_
+    second: {fileID: 2100000, guid: 69da4b1676e778044b048543e85faa82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange98_
+    second: {fileID: 2100000, guid: 7cc3de0b32e4227489e9c5d37d4abf20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange99_
+    second: {fileID: 2100000, guid: a6f05f8989f020d448e1a8b9a43f1a8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet_Ltorange9_
+    second: {fileID: 2100000, guid: 48b4aac5196fde94f8159029b2914876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_000
+    second: {fileID: 2100000, guid: 688bd6ac50c03d446a9204ad1547df00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 1189001787c8df04a8c62e78bd653f17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I-Lite
+    second: {fileID: 2100000, guid: 4d2a9d036a7a60a4e908cbf2c1a31a5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I-Lite.001
+    second: {fileID: 2100000, guid: 4c8c4f3ba0edc3348b5ea255c859ea9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I-Lite.002
+    second: {fileID: 2100000, guid: d1a7083a6af98254890efd4e128d602c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I-Lite.003
+    second: {fileID: 2100000, guid: 699c8154da5f47148a3b8607e5e35e0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I-Lite.004
+    second: {fileID: 2100000, guid: 005083f3d0cfc564d96c695636542408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I-Lite.005
+    second: {fileID: 2100000, guid: ff31800ed87069742916a33ce9954941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I-Lite.006
+    second: {fileID: 2100000, guid: 3d2f586b5d8788f40b41c290b1109dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint I-Lite
+    second: {fileID: 2100000, guid: 3cc0ce7fbea5fee4ba51fc0aed7a8747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint I-Lite.004
+    second: {fileID: 2100000, guid: 6c62dd4e011917b4ca6c2466e862c62f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint I-Lite.005
+    second: {fileID: 2100000, guid: 8c44759b7ee782c4682122990155b1e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint I-Lite.006
+    second: {fileID: 2100000, guid: f14220bdc30bbda479359cbdcd904ce4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint I-Lite.007
+    second: {fileID: 2100000, guid: 76f92f047129ea449a831092f4b722b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint I-Lite.008
+    second: {fileID: 2100000, guid: 681393fd1d98f9f4da88ef822ca3641f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_003636ff
+    second: {fileID: 2100000, guid: 3f1a9f540cd211b49853fc63edeb40cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_369A87ff
+    second: {fileID: 2100000, guid: 812da8769d2c40845ba4f1c7f223eb97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 73d46dad6ef4f0f4d942320a01ee4bd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: fcec42eac07f73b4cb8bdfa4ca3fe1f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 61a2a985804d7324391394d464841bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: c42bb76a11415154288d88026e73e349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 485a7113435ac804baf990bf6b6b41c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: ae9dda6991ddd8d44993431da95711c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: 6bec5fb3ba670984bac617f4d2c607cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: 33f9b29fd272cfc4ca5501efb8a87ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.184
+    second: {fileID: 2100000, guid: c3fa14e8ac5f9ef4e9f11d05ed49b49a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.185
+    second: {fileID: 2100000, guid: d15f029f8bf39f84db4b4c73b895680e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.186
+    second: {fileID: 2100000, guid: 632de0919c70a9741b6b54868ff0c262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.187
+    second: {fileID: 2100000, guid: aaf3726d27f243047823b30eb9ec0173, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Corrogated_Shiny
+    second: {fileID: 2100000, guid: 41d49244791423547bc6222a01f56446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rex_Eyes
+    second: {fileID: 2100000, guid: 59efefefaebf99049a654fb56c87558b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rex_Rough
+    second: {fileID: 2100000, guid: ce38f02ac4435c140a1c3dfa9df13904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rex_Skin
+    second: {fileID: 2100000, guid: 0385eb1d91fb76a469c741789ff4ea14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tile_Navy
+    second: {fileID: 2100000, guid: f0cb3cc72d5e7974682b8e3f5b69ae7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0136_Charcoal_2
+    second: {fileID: 2100000, guid: 48a64b5c37fb5534a97af1bee5eb94fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _9
+    second: {fileID: 2100000, guid: 0d4e91fa78ed829498889656d0683b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: 21846911d78b832458b888d9866ca69d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _LightGray_
+    second: {fileID: 2100000, guid: 178450229f5876a4694812ff7d634516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium bar
+    second: {fileID: 2100000, guid: 17e760c978259734599b0a312d33eda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium bar.001
+    second: {fileID: 2100000, guid: 01405a8551b44c54f9fe9220ccfa9af0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium bar.002
+    second: {fileID: 2100000, guid: a6a543a90d35981488e38b11a24da511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium bar.003
+    second: {fileID: 2100000, guid: e3c5807b25b58d849907d4418d8c6553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium bar.004
+    second: {fileID: 2100000, guid: c24056da157c63a45b124e33a75f62c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium bar.005
+    second: {fileID: 2100000, guid: fb2ab9a54c02ec54da7e9be1bdae64b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium bar.006
+    second: {fileID: 2100000, guid: 031304abcfe18c24a9dc9d758fb74226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkish grey plastic
+    second: {fileID: 2100000, guid: 2f1398483aee83242ad7d247934a2d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelitr1
+    second: {fileID: 2100000, guid: e2e500ad4ec444a4498a6661a2ca6903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grid plastic
+    second: {fileID: 2100000, guid: 7ca2cf91dad4b9c4d882905c55158302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lacesr1
+    second: {fileID: 2100000, guid: 055f362dd9da5564cbd8e6b7716e3c47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 8c764dfe19b4c8645809a4424a2e8f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic red
+    second: {fileID: 2100000, guid: e3ebb14a690c519438e0a038965950c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic yelow
+    second: {fileID: 2100000, guid: c0d1229f635f41c4e9e21d054f2f7b55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_1
+    second: {fileID: 2100000, guid: 24ebd96e389752c4abe23864d7c6c614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen
+    second: {fileID: 2100000, guid: b694b11e5ede9664084f36af10bfd3f5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
